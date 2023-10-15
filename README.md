@@ -1,3 +1,3 @@
 # test
-test of github
+test of github \n
 just testing the software :)
